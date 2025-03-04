@@ -81,7 +81,7 @@ SHEET_NAME_MENU=Menu
 
 ## 💰 Podpořte projekt
 
-Pokud vám aplikace pomohla, můžete mě podpořit použitím některého z **referral kódů** dostupných na [fukjemi.cz/code](https://fukjemi.cz/code). Děkuji! 🙌
+Pokud vám aplikace pomohla, můžete mě podpořit použitím některého z **referral kódů** dostupných na [code.fukjemi.cz](https://code.fukjemi.cz). Děkuji! 🙌
 
 ---
 
