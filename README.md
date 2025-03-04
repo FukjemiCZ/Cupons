@@ -43,6 +43,7 @@ GOOGLE_SERVICE_ACCOUNT_KEY='{
 
 SPREADSHEET_ID=1MMd28OsfrHJgnJ2qqfYSa3stEJKvtOOIPjdoI26djtM
 SHEET_NAME=Coupons
+SHEET_NAME_MENU=Menu
 ```
 
 > ⚠ **DŮLEŽITÉ**: Nikdy nesdílejte `.env` soubor ani jeho obsah, protože obsahuje citlivé údaje.
@@ -134,6 +135,6 @@ Pokud máte jakékoliv dotazy nebo návrhy na vylepšení, neváhejte mě kontak
 
 📧 Email: cupon-github@fukjemi.cz
 
-👤 **Main Developer**: ChatGPT
-👤 **AI Supervisor**: FukjemiCZ
-👤 **Owner**: FukjemiCZ
+- 👤 **Main Developer**: ChatGPT
+- 👤 **AI Supervisor**: FukjemiCZ
+- 👤 **Owner**: FukjemiCZ
